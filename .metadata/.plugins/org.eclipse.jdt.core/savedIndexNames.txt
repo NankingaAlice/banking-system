@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Administrator\Desktop\Nankinga Alice 23.U.1174\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2834897946.index
+696740233.index
